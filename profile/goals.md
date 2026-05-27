@@ -1,12 +1,26 @@
 # George's Goals
 
-## Active
-- **Phone agent** (phone.everblack.cloud) — inbound call ordering via Vapi, mirrors web app experience
-- **Everblack platform** — automate GMF + sell to other vendors
+## Immediate
+- **Phone agent** (phone.everblack.cloud) — inbound Vapi call ordering, mirrors web app experience exactly
+- **Stripe live** on WatcherHQ — 4 products, price IDs, webhook configured
+- QuickBooks end-to-end test (sandbox → production)
 
-## Next
-- Expand produce app to additional vendor clients
-- Minecraft server setup (Bedrock/GeyserMC for Xbox + Windows PC)
+## Short Term
+- Expand produce app to additional vendor clients beyond GMF
+- Leverage Everblack platform to earn raise / bigger role at GMF
+- WatcherHQ pricing page update
+- Mobile responsive pass on produce app
 
-## Long-term
-- Build and sell vertical SaaS tools for produce/food distribution industry
+## Medium Term
+- Trucking dashboard for Ethan (out-of-state client portal)
+- Route optimization feature
+- Predictive ordering (AI-based reorder suggestions)
+- POD (proof of delivery) confirmation flow
+- Driver mobile app (PWA)
+
+## Long Term
+- Multi-vendor marketplace on WatcherHQ
+- Cold chain / IoT integration
+- Farm-to-store traceability
+- Dispatch dashboard
+- Scale SaaS to multiple produce vendors
